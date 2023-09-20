@@ -21,7 +21,7 @@
 ### :man_technologist: About Me :
 I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I work as a frontend developer and am engaged in creating and improving interfaces.
+- :telescope: A certified engineer, I work as a frontend developer and am engaged in creating and improving interfaces.
 
 - :seedling: In my free time I study technical literature.
 
