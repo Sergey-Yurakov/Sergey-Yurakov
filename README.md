@@ -10,7 +10,7 @@
     </a>
   </div>
 
-  <img src="https://komarev.com/ghpvc/?username=sergeyyurakov&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=sergey-yurakov&style=flat-square&color=blue" alt=""/>
 
   <h1>
     Hi, I’m Sergey Yurakov
