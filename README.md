@@ -18,6 +18,15 @@
   </h1>
 </div>
 
+### :man_technologist: About Me :
+I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+- :telescope: I work as a frontend developer and am engaged in creating and improving interfaces.
+
+- :seedling: In my free time I study technical literature.
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-GuVictory-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stells54)
+
 <!--
 **Sergey-Yurakov/Sergey-Yurakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
