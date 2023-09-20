@@ -14,7 +14,7 @@
 
   <h1>
     Hi, I’m Sergey Yurakov
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="30px"/>
   </h1>
 </div>
 
