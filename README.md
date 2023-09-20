@@ -44,6 +44,10 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=sergeyyurakov&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeyyurakov&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Sergey-Yurakov/Sergey-Yurakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
