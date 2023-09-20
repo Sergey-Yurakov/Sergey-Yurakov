@@ -25,7 +25,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :seedling: In my free time I study technical literature.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-GuVictory-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stells54)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Sergey Yurakov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stells54)
 
 <!--
 **Sergey-Yurakov/Sergey-Yurakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
