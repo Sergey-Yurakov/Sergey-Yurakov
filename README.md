@@ -27,7 +27,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-SergeyYurakov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stells54)
 
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
